@@ -8,6 +8,8 @@
 ![giphy](https://user-images.githubusercontent.com/101948439/200957728-a3c9bc58-143f-40e2-be8e-b58b88d5b468.gif)
 ![giphy](https://user-images.githubusercontent.com/101948439/200955663-7f91fda3-ad15-4d7d-9b36-4417bbe1869b.gif)
 
+##
+
 <div>
   <a href="https://beacons.ai/rebecaoliveira19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecaoliveira19&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
