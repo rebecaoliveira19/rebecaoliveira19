@@ -1,12 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=header"/>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rebecca+Oliveira;I'm+20+years+old;I'm+from+Brazil;I+Study+Front-end+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
 
-![giphy](https://user-images.githubusercontent.com/101948439/200957728-a3c9bc58-143f-40e2-be8e-b58b88d5b468.gif)
-![giphy](https://user-images.githubusercontent.com/101948439/200955663-7f91fda3-ad15-4d7d-9b36-4417bbe1869b.gif)
+![giphy](https://user-images.githubusercontent.com/101948439/201429444-47c94588-a105-42ef-9239-c451ef3aa25b.gif)
+![giphy (1)](https://user-images.githubusercontent.com/101948439/201429513-d1616fdd-6a92-48d7-a072-edef7ae7755b.gif)
 
-##
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rebecaoliveira19&show_icons=true&count_private=true&hide_border=true&title_color=FF1493&icon_color=FFB6C1&text_color=FFB6C1&bg_color=000000" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaoliveira19&layout=compact&hide_border=true&title_color=FF1493&text_color=FFB6C1&bg_color=000000" />
@@ -31,11 +32,12 @@
   <img align="center" alt="Becca-Gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
   <img align="center" alt="Becca-Vcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
   <img align="center" alt="Becca-canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img align="right" alt="Becca-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
   </div>
   
-  ##
+ ##
   
+ ![giphy (2)](https://user-images.githubusercontent.com/101948439/201430121-c340409d-93a0-4386-8eba-5caec18883e3.gif)
+ 
 <div>
   
   <a href="https://instagram.com/rebecalive_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
