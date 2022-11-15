@@ -9,8 +9,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rebecaoliveira19&show_icons=true&count_private=true&hide_border=true&title_color=FF1493&icon_color=FFB6C1&text_color=FFB6C1&bg_color=000000" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaoliveira19&layout=compact&hide_border=true&title_color=FF1493&text_color=FFB6C1&bg_color=000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rebecaoliveira19&show_icons=true&count_private=true&hide_border=true&title_color=FF1493&icon_color=FFB6C1&text_color=FFB6C1&bg_color=0d1117" alt="Rebeca Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaoliveira19&layout=compact&hide_border=true&title_color=FF1493&text_color=FFB6C1&bg_color=0d1117" />
 </div>
 
   <div align="center">
