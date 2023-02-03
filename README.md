@@ -7,13 +7,13 @@
 ![giphy](https://user-images.githubusercontent.com/101948439/201429444-47c94588-a105-42ef-9239-c451ef3aa25b.gif)
 ![giphy (1)](https://user-images.githubusercontent.com/101948439/201429513-d1616fdd-6a92-48d7-a072-edef7ae7755b.gif)
 
-
- <div>
-<div align="center">
-  <a href="https://github.com/rebecaoliveira19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecaoliveira19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaoliveira19&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rebecaoliveira19&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Rebeca Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaoliveira&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
+
+
+
 
   <div align="center">
   <div style="display: inline_block"><br>
