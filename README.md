@@ -1,16 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rebecca+Oliveira;I'm+20+years+old;I'm+from+Brazil;I+Study+Front-end+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DA70D6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rebecca+Oliveira;I'm+20+years+old;I'm+from+Brazil;I+Study+Front-end+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
 
-![giphy](https://user-images.githubusercontent.com/101948439/201429444-47c94588-a105-42ef-9239-c451ef3aa25b.gif)
-![giphy (1)](https://user-images.githubusercontent.com/101948439/201429513-d1616fdd-6a92-48d7-a072-edef7ae7755b.gif)
-
-
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rebecaoliveira19&show_icons=true&count_private=true&hide_border=true&title_color=FF1493&icon_color=FF1493&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaoliveira19&layout=compact&hide_border=true&title_color=FF1493&text_color=FF1493&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rebecaoliveira19&show_icons=true&count_private=true&hide_border=true&title_color=EE82EE&icon_color=EE82EE&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaoliveira19&layout=compact&hide_border=true&title_color=EE82EE&text_color=EE82EE&bg_color=0d1117" />
 </div>
 
 
@@ -28,7 +25,8 @@
   
  ##
   
- ![giphy (2)](https://user-images.githubusercontent.com/101948439/201430121-c340409d-93a0-4386-8eba-5caec18883e3.gif)
+ ![giphy (2)](https://user-images.githubusercontent.com/101948439/218287323-d454ab78-90d9-45c1-b6d0-b2417dd26b9d.gif)
+ 
  
 <div>
   
@@ -47,6 +45,6 @@
 </div>
   
 </div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
   
  
