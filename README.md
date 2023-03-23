@@ -30,10 +30,6 @@
 <br>
 </div>
   
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rebecaoliveira19&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-<div>
  
 </div>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
