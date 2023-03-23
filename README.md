@@ -22,9 +22,6 @@
  ##
  ![giphy (2)](https://user-images.githubusercontent.com/101948439/218287323-d454ab78-90d9-45c1-b6d0-b2417dd26b9d.gif)
  
-  <a href="https://instagram.com/rebecalive_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rebeca-oliveira-436b73191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
  <div align="center">
