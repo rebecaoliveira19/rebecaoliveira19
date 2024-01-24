@@ -7,6 +7,9 @@
 - 🧠 Studying the Python programming language.
 - 💻 Some projects i have completed include a digital clock, calculator, and a responsive website using: CSS, HTML, JavaScript.
 
+
+##
+
  <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rebecaoliveira19&show_icons=true&count_private=true&hide_border=true&title_color=FFC0CB&icon_color=DB7093&text_color=FFC0CB&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaoliveira19&layout=compact&hide_border=true&title_color=FFC0CB&text_color=DB7093&bg_color=0d1117" />
