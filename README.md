@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC0CB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rebecca+Oliveira;I'm+21+years+old;I'm+from+Brazil;I+Study+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-.🙋‍♀️ **Welcome to my Github!**
-
-.👩‍💻  I am a student of Analysis and Systems Development. I am currently taking a Front-end course
+🙋‍♀️ **Welcome to my Github!**
+- 😄 Pronouns: ela/dela
+- 👩‍💻  I am a student of Analysis and Systems Development. I am currently taking a Front-end course
+- 📚 My favorite hobbies are reading books, watching anime, and traveling with my family.
+- 🧠 Studying the Python programming language.
+- 💻 Some projects i have completed include a digital clock, calculator, and a responsive website using: CSS, HTML, JavaScript.
 
  <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rebecaoliveira19&show_icons=true&count_private=true&hide_border=true&title_color=FFC0CB&icon_color=DB7093&text_color=FFC0CB&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
