@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC0CB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rebeca+Oliveira;I'm+21+years+old;I'm+from+Brazil;I+Study+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC0CB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rebeca;I'm+21+years+old;I'm+from+Brazil;I+Study+Analysis+and+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 🙋‍♀️ **Welcome to my Github!**
 - 😄 Pronouns: ela/dela
