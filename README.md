@@ -13,6 +13,7 @@
  <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rebecaoliveira19&show_icons=true&count_private=true&hide_border=true&title_color=FFC0CB&icon_color=DB7093&text_color=FFC0CB&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaoliveira19&layout=compact&hide_border=true&title_color=FFC0CB&text_color=DB7093&bg_color=0d1117" />
+
 </div>
 
   <div align="center">
@@ -26,10 +27,12 @@
   <img align="center" alt="Becca-python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Becca-mysql" heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
   <img align="center" alt="Becca-mysql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+ ##
    
-   
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rebecaoliveira19&bg_color=000000&color=f5d1e8&line=fb329d&point=facefd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   </div>
-  
+
  ##
 
  ![giphy (1)](https://user-images.githubusercontent.com/101948439/231864056-9736e567-5b87-49a6-a957-dc28c344e8e3.gif)
