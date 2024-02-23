@@ -28,8 +28,8 @@
   <img align="center" alt="Becca-mysql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
  ##
-  ![giphy](https://github.com/gustavoguanabara/git-github/assets/101948439/14436bdb-e9dc-4e57-8ff9-fd6ae4c5280a)
-![giphy (1)](https://github.com/gustavoguanabara/git-github/assets/101948439/b19f211e-a04e-4b66-8dab-cd38f75a1679)
+  ![image (1)](https://github.com/rebecaoliveira19/rebecaoliveira19/assets/101948439/43d9c28c-ef31-4fa8-9297-32eb74b5cd53)
+ 
   
    [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rebecaoliveira19&bg_color=0000008&color=f5d1e8&line=fb329d&point=facefd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -37,7 +37,7 @@
 
  ##
 
- 
+
 </div>
   
   
