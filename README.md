@@ -4,7 +4,7 @@
 - 👩‍💻  I am a student of Analysis and Systems Development. I am currently taking a Front-end course
 - 📚 My favorite hobbies are reading books, watching anime, and traveling with my family.
 - 🧠 Studying the Python programming language.
-- 💻 Some projects i have completed include a digital clock, calculator, and a responsive website using: CSS, HTML, JavaScript..
+- 💻 Some projects i have completed include a digital clock, calculator, and a responsive website using: CSS, HTML, JavaScript
 
 
 ##
